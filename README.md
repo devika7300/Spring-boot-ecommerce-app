@@ -1,7 +1,7 @@
 # E-commerce Backend Application
 
 ## Introduction
-This is a backend application for an e-commerce platform built with Spring Boot. It is designed to handle all backend functionalities such as user authentication, product management, order processing, and more using REST APIs.
+This is a backend application for an e-commerce platform built with Java Spring Boot. It is designed to handle all backend functionalities such as user authentication, product management, order processing, and more using REST APIs.
 
 ## Features
 - **User Authentication and Authorization**: Implemented using Spring Security 6 and JWT for secure access to the API endpoints.
