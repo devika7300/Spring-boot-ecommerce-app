@@ -7,7 +7,7 @@ This is a backend application for an e-commerce platform built with Java Spring 
 - **User Authentication and Authorization**: Implemented using Spring Security 6 and JWT for secure access to the API endpoints.
 - **Product Management**: APIs to create, update, delete, and retrieve products.
 - **Order Processing**: APIs to manage customer orders from creation to completion.
-- **Secure Payments**: Integration with payment gateways for processing payments (Note: implement this if applicable).
+- **Secure Payments**: Integration with payment gateways for processing payments.
 
 ## Technologies Used
 - **Spring Boot**: For creating the application framework and server.
